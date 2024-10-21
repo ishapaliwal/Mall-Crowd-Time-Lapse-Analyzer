@@ -18,7 +18,7 @@ Mall managers might use this tool to optimize security and staffing, retail mana
 ## Python Script for Project:
 The following Jupyter Notebook covers the complete workflow, from frame extraction and video processing to real-time crowd analysis, giving crucial information for improved operational planning.
 
-[Counting_no_of_people.ipynb]()
+[Counting_no_of_people.ipynb](https://github.com/ishapaliwal/Mall-Crowd-Time-Lapse-Analyzer/blob/main/Counting_no_of_people.ipynb)
 
 ## Steps to Execute:
 Make sure all required files are properly configured in your project directory before beginning the analysis. To get ready to carry out the analysis, take the following actions:
@@ -31,10 +31,10 @@ Make sure all required files are properly configured in your project directory b
     - [american_mall_video.mp4](https://github.com/ishapaliwal/Mall-Crowd-Time-Lapse-Analyzer/blob/main/american_mall_video.mp4): Video file for analysis.
     - [coco.names](https://github.com/ishapaliwal/Mall-Crowd-Time-Lapse-Analyzer/blob/main/coco.names): Class identifier names used by YOLO.
     - [yolov3.cfg](https://github.com/ishapaliwal/Mall-Crowd-Time-Lapse-Analyzer/blob/main/yolov3.cfg): Configuration file for the YOLO model.
-    - yolov3.weights: Weights for the YOLO model that was just downloaded.
+    - **yolov3.weights**: Weights for the YOLO model that was just downloaded.
     - [Counting_no_of_people.ipynb](https://github.com/ishapaliwal/Mall-Crowd-Time-Lapse-Analyzer/blob/main/Counting_no_of_people.ipynb): The Jupyter Notebook containing the project code.
 3. Execute the Jupyter Notebook:
-  - Open Counting_no_of_people.ipynb in a Jupyter environment.
+  - Open **Counting_no_of_people.ipynb** in a Jupyter environment.
   - Run all cells in the notebook to perform the video analysis, frame extraction, and crowd counting.
 
 By taking these preparatory actions, you make sure that everything is ready for the crowd analysis tool to be used successfully.
